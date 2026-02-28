@@ -1,4 +1,5 @@
 flask
 python-telegram-bot==20.3
-google-genai
+google-genai>=1.2.0
 requests
+httpx>0.25
